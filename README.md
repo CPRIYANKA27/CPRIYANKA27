@@ -2,7 +2,7 @@
 
 🌟 A passionate Frontend Developer | React | JavaScript | UI/UX Enthusiast  
 
----
+![Banner](https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh06/blob/main/Front_Image.png?raw=true)
 
 ## 🚀 About Me
 - 🎓 Currently learning **React.js, Redux, Webpack**

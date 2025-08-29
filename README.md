@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Priyanka Chaudhari!
 
-<!--
-**CPRIYANKA27/CPRIYANKA27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 A passionate Frontend Developer | React | JavaScript | UI/UX Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Currently learning **React.js, Redux, Webpack**
+- 💻 Interested in **Frontend Development**
+- 📈 Built projects like **QTify App, Expense Tracker**
+- 🌱 Exploring **DSA & System Design**
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React, Redux, JavaScript, HTML, CSS, Tailwind
+- **Backend:** Node.js, Express, Firebase
+- **Tools:** Git, GitHub, VS Code, Postman
+
+---
+
+## 📊 GitHub Stats
+![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?logo=github&logoColor=white)](https://yourportfolio.com)

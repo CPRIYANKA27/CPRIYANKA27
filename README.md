@@ -20,7 +20,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=CPRIYANKA27&show_icons=true&theme=radical)
 
 ---
 
